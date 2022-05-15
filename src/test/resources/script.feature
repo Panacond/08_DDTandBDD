@@ -11,3 +11,6 @@ Feature: Test select expensive
     Examples:
       | product | brand | price | select |
       | ноутбук | MSI   | 5000  | " От дорогих к дешевым " |
+
+    Scenario: Hello world
+      Given run hello world
