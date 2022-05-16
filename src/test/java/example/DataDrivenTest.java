@@ -1,7 +1,6 @@
 package example;
 
 import org.junit.Before;
-import pageFactory.Calculator;
 
 /**
  * Created by shantonu on 7/15/16.

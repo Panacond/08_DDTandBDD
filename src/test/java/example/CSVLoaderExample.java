@@ -7,7 +7,6 @@ import org.easetech.easytest.runner.DataDrivenTestRunner;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import pageFactory.Calculator;
 
 /**
  * Created by shantonu on 8/29/16.

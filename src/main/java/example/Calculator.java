@@ -1,4 +1,4 @@
-package pageFactory;
+package example;
 
 /**
  * Created by shantonu on 7/15/16.
@@ -6,9 +6,6 @@ package pageFactory;
 public class Calculator {
     public Double add(Double a, Double b){
         return a+b;
-    }
-    public Double sub(Double a, Double b){
-        return a-b;
     }
 
 }

@@ -9,9 +9,9 @@ Feature: Test select expensive
     Then The price in the cart is higher than the '<price>'
 
     Examples:
-      | product | brand | price | select               |
-      | ноутбук | MSI   | 5000  | От дорогих к дешевым |
-      | смартфон | Xiaomi   | 17000  | От дорогих к дешевым |
+      | product  | brand  | price | select               |
+      | ноутбук  | MSI    | 5000  | От дорогих к дешевым |
+      | смартфон | Xiaomi | 17000 | От дорогих к дешевым |
 
   Scenario: Hello world
     Given run hello world
